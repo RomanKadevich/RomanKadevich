@@ -19,7 +19,7 @@
 
  ### 👨🏻‍💻 My Projects
  <ul>
- <li><a href="" target="_blanc">
+ <li><a href="https://bug-busters.netlify.app/" target="_blanc">
    BLOSSOM
 </a> - E-commerce application. on React and the Commerce Tools API. <br>
 
@@ -39,7 +39,7 @@
     Virtual-keyboard  
 </a> - keybord matrix <br>
 
-> Core Technology Stack: <img width="30" height="30" src="https://github.com/RomanKadevich/RomanKadevich/assets/123977364/5cb4e4ef-cce6-40e4-873c-846a3be05c8c" alt="JS"/><br></li>
+> Core Technology Stack: <img width="30" height="30" src="https://github.com/RomanKadevich/RomanKadevich/assets/123977364/5cb4e4ef-cce6-40e4-873c-846a3be05c8c" alt="JS"/><img width="30" height="30" src="https://github.com/RomanKadevich/RomanKadevich/assets/123977364/5be28446-63d9-4107-aa48-a4828645009f" alt="SASS"/><img width="30" height="30" src="https://github.com/RomanKadevich/RomanKadevich/assets/123977364/498a29bb-d0b7-4d95-95f1-0951924bc4e4" alt="Webpack"/><br></li>
 <li><a href="https://rolling-scopes-school.github.io/wellder00-JSFE2023Q1/migration-ts/" target="_blanc">
    TS News
 </a> - migration newip to ts <br>
