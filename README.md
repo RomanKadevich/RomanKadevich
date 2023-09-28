@@ -1,6 +1,6 @@
 
 <p align="center">
-  <h2 align="center">Hello everyone! Glad to see you here 😊</h2>
+  <h2 align="center">Hey 👋, I'm Roman!</h2>
 </p>
 <div align="center"> <a href="https://www.linkedin.com/in/roman-kadevich-348145279/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
