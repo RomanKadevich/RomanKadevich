@@ -13,6 +13,21 @@
 
 <div>
   
+ ### :hammer_and_wrench:Tech Stack:
+  <div align="center">
+    <img src="https://img.shields.io/badge/TypeScript-333?style=for-the-badge&logo=TypeScript" alt="TypeScript Badge"/>
+      <img src="https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=JavaScript" alt="JavaScript Badge"/>
+      <img src="https://img.shields.io/badge/React-333?style=for-the-badge&logo=React" alt="React Badge"/>
+      <img src="https://img.shields.io/badge/Redux-333?style=for-the-badge&logo=Redux&logoColor=white" alt="Redux Badge"/>
+  <img src="https://img.shields.io/badge/HTML-333?style=for-the-badge&logo=HTML5" alt="HTML Badge"/>
+  <img src="https://img.shields.io/badge/CSS-333?style=for-the-badge&logo=CSS3" alt="CSS Badge"/>
+  <img src="https://img.shields.io/badge/SASS-333?style=for-the-badge&logo=SASS" alt="SASS Badge"/>
+  <img src="https://img.shields.io/badge/tailwindcss-333?style=for-the-badge&logo=tailwind-css" alt="Tailwind Badge"/>
+  <img src="https://img.shields.io/badge/Webpack-333?style=for-the-badge&logo=Webpack" alt="Webpack Badge"/>
+  <img src="https://img.shields.io/badge/Git-333?style=for-the-badge&logo=Git" alt="Git Badge"/>
+  <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=GitHub" alt="GitHub Badge"/>
+  <img src="https://img.shields.io/badge/Figma-333?style=for-the-badge&logo=Figma" alt="Figma Badge"/>
+ </div> 
 
 
 
@@ -68,19 +83,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanKadevich&show_icons=true&theme=dracula)
 
 
- ### :hammer_and_wrench: Languages and Tools:
-   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-<img width="70" height="40" src="https://commercetools.com/_build/images/logos/commercetools-logo-desktop.svg" alt="Commerce Tools"/>
-</div>
+
 
 
 
