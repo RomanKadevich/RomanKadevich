@@ -32,11 +32,13 @@
 </div>
 
 ### :fire: My Stats:
-[![codewars](https://www.codewars.com/users/romankadevich/badges/large)](https://www.codewars.com/users/romankadevich) 
+[![codewars](https://www.codewars.com/users/romankadevich/badges/micro)](https://www.codewars.com/users/romankadevich) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanKadevich&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKadevich&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanKadevich&show_icons=true&theme=dracula)
 
 
 
