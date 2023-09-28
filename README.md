@@ -21,23 +21,35 @@
  <ul>
  <li><a href="" target="_blanc">
    BLOSSOM
-</a> - E-commerce application. on React and the Commerce Tools API. <br><u>Core Technology Stack:</u> <img width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React"/> <img width="30" height="30" src="https://github.com/RomanKadevich/RomanKadevich/assets/123977364/2261b66e-a3e4-414f-8de5-a308c0840ef8" alt="TS"/><img width="70" height="40" src="https://commercetools.com/_build/images/logos/commercetools-logo-desktop.svg" alt="Commerce Tools"/> <img width="30" height="30" src="https://github.com/RomanKadevich/RomanKadevich/assets/123977364/5be28446-63d9-4107-aa48-a4828645009f" alt="SASS"/><img width="30" height="30" src="https://github.com/RomanKadevich/RomanKadevich/assets/123977364/498a29bb-d0b7-4d95-95f1-0951924bc4e4" alt="Webpack"/><br></li>
+</a> - E-commerce application. on React and the Commerce Tools API. <br>
+
+> Core Technology Stack: <img width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React"/> <img width="30" height="30" src="https://github.com/RomanKadevich/RomanKadevich/assets/123977364/2261b66e-a3e4-414f-8de5-a308c0840ef8" alt="TS"/><img width="70" height="40" src="https://commercetools.com/_build/images/logos/commercetools-logo-desktop.svg" alt="Commerce Tools"/> <img width="30" height="30" src="https://github.com/RomanKadevich/RomanKadevich/assets/123977364/5be28446-63d9-4107-aa48-a4828645009f" alt="SASS"/><img width="30" height="30" src="https://github.com/RomanKadevich/RomanKadevich/assets/123977364/498a29bb-d0b7-4d95-95f1-0951924bc4e4" alt="Webpack"/><br></li>
  <li><a href="https://romankadevich.github.io/rsschool-tasks/RSS-CSS-Selectors" target="_blanc">
    CSS selectors 
-</a> - Single page application. CSS training simulator. <br><u>Core Technology Stack:</u> <img width="30" height="30" src="https://github.com/RomanKadevich/RomanKadevich/assets/123977364/2261b66e-a3e4-414f-8de5-a308c0840ef8" alt="TS"/> <img width="30" height="30" src="https://github.com/RomanKadevich/RomanKadevich/assets/123977364/5be28446-63d9-4107-aa48-a4828645009f" alt="SASS"/><img width="30" height="30" src="https://github.com/RomanKadevich/RomanKadevich/assets/123977364/498a29bb-d0b7-4d95-95f1-0951924bc4e4" alt="Webpack"/><br></li>
+</a> - Single page application. CSS training simulator. <br>
+
+> Core Technology Stack: <img width="30" height="30" src="https://github.com/RomanKadevich/RomanKadevich/assets/123977364/2261b66e-a3e4-414f-8de5-a308c0840ef8" alt="TS"/> <img width="30" height="30" src="https://github.com/RomanKadevich/RomanKadevich/assets/123977364/5be28446-63d9-4107-aa48-a4828645009f" alt="SASS"/><img width="30" height="30" src="https://github.com/RomanKadevich/RomanKadevich/assets/123977364/498a29bb-d0b7-4d95-95f1-0951924bc4e4" alt="Webpack"/><br></li>
 <li><a href="https://romankadevich.github.io/rsschool-tasks/RSS-CSS-Selectors" target="_blanc">
    Minesweeper
-</a> - Minesweeper game <br><u>Core Technology Stack:</u>
+</a> - Minesweeper game <br>
+
+> Core Technology Stack:
 
 <li><a href="https://romankadevich.github.io/virtual-keyboard" target="_blanc">
     Virtual-keyboard  
-</a> - keybord matrix <br><u>Core Technology Stack:</u> <img width="30" height="30" src="https://github.com/RomanKadevich/RomanKadevich/assets/123977364/5cb4e4ef-cce6-40e4-873c-846a3be05c8c" alt="JS"/><br></li>
+</a> - keybord matrix <br>
+
+> Core Technology Stack: <img width="30" height="30" src="https://github.com/RomanKadevich/RomanKadevich/assets/123977364/5cb4e4ef-cce6-40e4-873c-846a3be05c8c" alt="JS"/><br></li>
 <li><a href="https://rolling-scopes-school.github.io/wellder00-JSFE2023Q1/migration-ts/" target="_blanc">
    TS News
-</a> - migration newip to ts <br><u>Core Technology Stack:</u></li>
+</a> - migration newip to ts <br>
+
+> Core Technology Stack:</li>
 <li><a href="https://romankadevich.github.io/rsschool-tasks/shelter" target="_blanc">
    Shelter
-</a> - Shelter site <br><u>Core Technology Stack:</u></li>
+</a> - Shelter site <br>
+
+> Core Technology Stack:</li>
  </ul>
  
 
