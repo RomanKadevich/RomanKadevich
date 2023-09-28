@@ -34,7 +34,7 @@
  <li><a href="https://romankadevich.github.io/rsschool-tasks/RSS-CSS-Selectors" target="_blanc">
    CSS selectors 
 </a> - Single page application. CSS training simulator. <br>Core Technology Stack: <img width="30" height="30" src="https://github.com/RomanKadevich/RomanKadevich/assets/123977364/2261b66e-a3e4-414f-8de5-a308c0840ef8" alt="TS"/> <img width="30" height="30" src="https://github.com/RomanKadevich/RomanKadevich/assets/123977364/5be28446-63d9-4107-aa48-a4828645009f" alt="SASS"/><img width="30" height="30" src="https://github.com/RomanKadevich/RomanKadevich/assets/123977364/498a29bb-d0b7-4d95-95f1-0951924bc4e4" alt="Webpack"/><br></li>
-<li><a href="[https://romankadevich.github.io/rsschool-tasks/RSS-CSS-Selectors](https://romankadevich.github.io/rsschool-tasks/minesweeper)" target="_blanc">
+<li><a href="https://romankadevich.github.io/rsschool-tasks/RSS-CSS-Selectors" target="_blanc">
    Minesweeper
 </a> - Minesweeper game<br>
 
