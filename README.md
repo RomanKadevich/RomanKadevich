@@ -7,6 +7,10 @@
   </a>
   </div>
   
+
+
+  
+  
   <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
 </div>
@@ -26,8 +30,11 @@
 </div>
 
 ## :fire: My Stats:
+[![codewars](https://www.codewars.com/users/romankadevich/badges/large)](https://www.codewars.com/users/romankadevich) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanKadevich&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKadevich&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
