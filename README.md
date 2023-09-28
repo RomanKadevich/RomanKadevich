@@ -19,7 +19,7 @@
   
  ### 🛠️ My Projects
  
- ## :hammer_and_wrench: Languages and Tools:
+ ### :hammer_and_wrench: Languages and Tools:
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -31,7 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-## :fire: My Stats:
+### :fire: My Stats:
 [![codewars](https://www.codewars.com/users/romankadevich/badges/large)](https://www.codewars.com/users/romankadevich) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanKadevich&show_icons=true&theme=dracula)
