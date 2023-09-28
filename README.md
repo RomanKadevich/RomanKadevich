@@ -45,7 +45,7 @@
 </a> - migration newip to ts <br>
 
 > Core Technology Stack:</li>
-<li><a href="https://romankadevich.github.io/rsschool-tasks/shelter" target="_blanc">
+<li><a href="https://romankadevich.github.io/rsschool-tasks/shelter/pages/main" target="_blanc">
    Shelter
 </a> - Shelter site <br>
 
