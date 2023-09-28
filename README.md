@@ -27,9 +27,7 @@
 
 ## :fire: My Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RomanKadevich&theme=rose-pine&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=465)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanKadevich&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKadevich)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKadevich&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-
- 
