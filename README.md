@@ -7,17 +7,30 @@
   </a>
   </div>
   
-
-
-  
   
   <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
 </div>
 
 <div>
-  
+
  ### 👨🏻‍💻 My Projects
+ <a href="" target="_blanc">
+   CSS selectors 
+</a> - Single page application. CSS training simulator. Technology stack: <img width="30" src="https://github.com/RomanKadevich/RomanKadevich/assets/123977364/2261b66e-a3e4-414f-8de5-a308c0840ef8" alt="TS"/> <img width="30" src="https://github.com/RomanKadevich/RomanKadevich/assets/123977364/5be28446-63d9-4107-aa48-a4828645009f" alt="SASS"/><img width="30" src="https://github.com/RomanKadevich/RomanKadevich/assets/123977364/498a29bb-d0b7-4d95-95f1-0951924bc4e4" alt="Webpack"/><br>
+<a href="" target="_blanc">
+   Minesweeper
+</a> - Minesweeper game<br>
+
+<a href="" target="_blanc">
+    Virtual-keyboard
+</a> - keybord matrix <img width="30" src="https://github.com/RomanKadevich/RomanKadevich/assets/123977364/5cb4e4ef-cce6-40e4-873c-846a3be05c8c" alt="JS"/><br> style<br>
+<a href="https://rolling-scopes-school.github.io/wellder00-JSFE2023Q1/migration-ts/" target="_blanc">
+   TS News
+</a> - migration newip to ts<br>
+<a href="" target="_blanc">
+   Shelter
+</a> - Shelter site<br>
  
  ### :hammer_and_wrench: Languages and Tools:
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
