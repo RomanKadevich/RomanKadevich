@@ -17,7 +17,7 @@
 
 <div>
   
- ### 🛠️ My Projects
+ ### 👨🏻‍💻 My Projects
  
  ### :hammer_and_wrench: Languages and Tools:
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
