@@ -44,7 +44,7 @@
 <a href="https://rolling-scopes-school.github.io/wellder00-JSFE2023Q1/migration-ts/" target="_blanc">
    TS News
 </a> - migration newip to ts<br></li>
-<li><a href="https://romankadevich.github.io/rsschool-tasks/shelter" target="_blanc">
+<li><a href="[https://romankadevich.github.io/rsschool-tasks/shelter](https://romankadevich.github.io/rsschool-tasks/shelter/pages/main/)" target="_blanc">
    Shelter
 </a> - Shelter site<br></li>
  </ul>
