@@ -1,7 +1,23 @@
 
 <p align="center">
-  <h2 align="center">Hey 👋, I'm Roman!</h2>
+  <h2 align="center">Hey 👋, I'm Roman!
+
+
+  
+  </h2>
+  
+   <div align="center"> 
+     
+  ![](https://komarev.com/ghpvc/?username=RomanKadevich&label=PROFILE+VIEWS) 
+     
+</div>
+
+  
 </p>
+
+
+
+
 <div align="center"> <a href="https://www.linkedin.com/in/roman-kadevich-348145279/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> <a href="https://t.me/roman_kadevich"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegramm"/>
@@ -81,6 +97,11 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanKadevich&show_icons=true&theme=dracula)
+
+
+
+
+
 
 
 
