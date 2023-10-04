@@ -8,7 +8,7 @@
   
    <div align="center"> 
      
-  ![](https://komarev.com/ghpvc/?username=RomanKadevich&label=PROFILE+VIEWS) 
+  ![](https://komarev.com/ghpvc/?username=RomanKadevich&style=flat&label=PROFILE+VIEWS) 
      
 </div>
 
